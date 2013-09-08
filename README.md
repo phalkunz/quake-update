@@ -17,6 +17,6 @@ On the LCD, there are 4 fields to display:
 
 ## Electronic Components
 
-To see what electronic components are used and connects, refer to `breadboard.fzz` file. Download the tool from [Fritzing](fritzing.org).
+To see what electronic components are used and connects, refer to *breadboard.fzz* file. Download the tool from [Fritzing](http://fritzing.org).
 
 ![Breadboard view](images/ard_breadboard.png)
